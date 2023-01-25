@@ -9,8 +9,17 @@ export default function () {
     {
       type: 'div',
       props: {
-        children: 'hello, world',
-        style: { color: 'black' },
+        children: 'Hello World',
+        style: {
+          fontSize: 128,
+          background: 'white',
+          width: '100%',
+          height: '100%',
+          display: 'flex',
+          textAlign: 'center',
+          alignItems: 'center',
+          justifyContent: 'center',
+        },
       },
     },
     {
