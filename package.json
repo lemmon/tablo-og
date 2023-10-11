@@ -1,6 +1,6 @@
 {
   "type": "module",
   "dependencies": {
-    "@vercel/og": "0.0.22"
+    "@vercel/og": "0.5.17"
   }
 }
